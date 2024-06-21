@@ -1,0 +1,4 @@
+[submodule "submodules/4.27-MK1"]
+    path = submodules/4.27-MK1
+    url = git@github.com:EpicGames/UnrealEngine.git
+    branch = release
