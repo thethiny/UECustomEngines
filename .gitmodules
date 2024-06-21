@@ -1,0 +1,4 @@
+[submodule "customengines/4.27-MK1"]
+	path = customengines/4.27-MK1
+	url = git@github.com:kboykboy2/UnrealEngine.git
+	branch = 4.27-MK1
